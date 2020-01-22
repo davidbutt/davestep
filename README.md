@@ -1,14 +1,14 @@
 ![](https://github.com/autostep/autostep/workflows/AutoStep%20Build/badge.svg)
 
-# AutoStep
+# DaveStep
 
-AutoStep is a compiler and runner for Gherkin-style BDD tests, with some extra language features on top of standard gherkin that add useful functionality.
+DaveStep is a compiler and runner for Gherkin-style BDD tests, with some extra language features on top of standard gherkin that add useful functionality.
 
 ---
 
 **Status**
 
-AutoStep is currently under development (in alpha). You can grab the CI package
+DaveStep is currently under development (in alpha). You can grab the CI package
 from our feedz.io package feed: https://f.feedz.io/autostep/ci/nuget/index.json. 
 
 At the moment the compiler and linker is relatively stable, with work starting on test execution.
@@ -17,9 +17,9 @@ Get the 'alpha' pre-release for latest develop.
 
 ---
 
-# Why AutoStep
+# Why DaveStep
 
-Why does AutoStep exist? The team behind AutoStep has spent years testing enterprise-level web applications using the existing Gherkin technologies (mostly SpecFlow) and while we are a big fan of these, we've also identified a couple of things we'd like to add. Here are a few of the useful features in AutoStep that help us with that.
+Why does DaveStep exist? The team behind AutoStep has spent years testing enterprise-level web applications using the existing Gherkin technologies (mostly SpecFlow) and while we are a big fan of these, we've also identified a couple of things we'd like to add. Here are a few of the useful features in AutoStep that help us with that.
 
 ## Defining Steps in the same Language as the Tests
 
